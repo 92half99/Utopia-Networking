@@ -1,4 +1,4 @@
-# Utopia-Networking 🌐 🖧
+# Utopia-Networking 🖧
 
 **Utopia-Networking** is an optional module for [Utopia](https://github.com/92half99/Utopia) that provides networking capabilities.
 
