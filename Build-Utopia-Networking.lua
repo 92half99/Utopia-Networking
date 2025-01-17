@@ -31,7 +31,7 @@ project "Utopia-Networking"
    filter "system:windows"
       systemversion "latest"
       defines { "UT_PLATFORM_WINDOWS" }
-      files { "Platform/Windows/**.h", "Platform/Linux/**.hpp", "Platform/Windows/**.cpp" }
+      files { "Platform/Windows/**.h", "Platform/Windows/**.hpp", "Platform/Windows/**.cpp" }
       includedirs { "Platform/Windows" }
       links { "Ws2_32.lib" }
 
